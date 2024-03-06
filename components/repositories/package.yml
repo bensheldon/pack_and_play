@@ -1,0 +1,4 @@
+enforce_dependencies: true
+dependencies:
+  - . # ApplicationRecord
+public_path: app/public
