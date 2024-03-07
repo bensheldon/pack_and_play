@@ -1,3 +1,6 @@
+require:
+  - packwerk-extensions
+
 # See: Setting up the configuration file
 # https://github.com/Shopify/packwerk/blob/main/USAGE.md#configuring-packwerk
 

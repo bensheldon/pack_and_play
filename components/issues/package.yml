@@ -1,4 +1,4 @@
 enforce_dependencies: true
 dependencies:
   - . # ApplicationRecord
-
+  - components/repositories

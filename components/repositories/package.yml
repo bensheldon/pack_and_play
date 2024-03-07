@@ -1,4 +1,4 @@
 enforce_dependencies: true
+enforce_privacy: true
 dependencies:
   - . # ApplicationRecord
-public_path: app/public

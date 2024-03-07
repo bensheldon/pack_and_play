@@ -49,3 +49,5 @@ gem "packwerk", "~> 3.2"
 
 gem 'issues', path: 'components/issues'
 gem 'repositories', path: 'components/repositories'
+
+gem "packwerk-extensions", "~> 0.1.9"
